@@ -9,5 +9,6 @@ https://github.com/EpicNesh26/ChromaGrid/blob/87a00c42ece811ba73833faed9fda15c47
 
 The card also has an ::after pseudo-element that creates a semi-transparent background, giving the card a subtle shadow effect.
 <br>
+https://github.com/EpicNesh26/ChromaGrid/blob/9d95764c9a4437b66071fc823a71780465c77d95/style.css#L49-L54
 
 Overall, this project is a great example of how to use CSS Grid and custom properties to create a dynamic and interactive layout. The hover effect adds a nice touch to the design and can be easily customized to fit different design needs.
